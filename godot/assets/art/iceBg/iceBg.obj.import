@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/iceBg.obj-90b935d434abc19b52a38db59b4b756d.mesh"
+
+[deps]
+
+files=[ "res://.import/iceBg.obj-90b935d434abc19b52a38db59b4b756d.mesh" ]
+
+source_file="res://assets/art/iceBg/iceBg.obj"
+dest_files=[ "res://.import/iceBg.obj-90b935d434abc19b52a38db59b4b756d.mesh", "res://.import/iceBg.obj-90b935d434abc19b52a38db59b4b756d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

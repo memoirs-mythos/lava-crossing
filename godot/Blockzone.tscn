@@ -1,0 +1,100 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Lava.tscn" type="PackedScene" id=1]
+
+[node name="Blockzone" type="Spatial"]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1, -5, 6 )
+_sections_unfolded = [ "Transform", "Visibility" ]
+
+[node name="Lava" type="Spatial" parent="." index="0" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava2" type="Spatial" parent="." index="1" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 7.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava3" type="Spatial" parent="." index="2" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava4" type="Spatial" parent="." index="3" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava5" type="Spatial" parent="." index="4" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava6" type="Spatial" parent="." index="5" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava7" type="Spatial" parent="." index="6" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava8" type="Spatial" parent="." index="7" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava9" type="Spatial" parent="." index="8" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava10" type="Spatial" parent="." index="9" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava11" type="Spatial" parent="." index="10" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava12" type="Spatial" parent="." index="11" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava13" type="Spatial" parent="." index="12" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava14" type="Spatial" parent="." index="13" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava15" type="Spatial" parent="." index="14" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava16" type="Spatial" parent="." index="15" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava17" type="Spatial" parent="." index="16" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -7.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Lava18" type="Spatial" parent="." index="17" instance=ExtResource( 1 )]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -8.5, 0, 0 )
+_sections_unfolded = [ "Transform" ]
+
+

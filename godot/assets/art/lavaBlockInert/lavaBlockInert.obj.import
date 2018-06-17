@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lavaBlockInert.obj-cad5c8eef31650a403dc317eedcb518a.mesh"
+
+[deps]
+
+files=[ "res://.import/lavaBlockInert.obj-cad5c8eef31650a403dc317eedcb518a.mesh" ]
+
+source_file="res://assets/art/lavaBlockInert/lavaBlockInert.obj"
+dest_files=[ "res://.import/lavaBlockInert.obj-cad5c8eef31650a403dc317eedcb518a.mesh", "res://.import/lavaBlockInert.obj-cad5c8eef31650a403dc317eedcb518a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
