@@ -1,6 +1,6 @@
 # This project's non-code assets are licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Enlightened Modifications](https://enmod.itch.io/) has waived all copyright and related or neighboring rights to this "Lava Crossing" Godot Engine project. This work is published from: United States. 
+To the extent possible under law, [Enlightened Modifications](https://enmod.itch.io/) has waived all copyright and related or neighboring rights to graphics assets of this "Lava Crossing" Godot Engine project. This work is published from: United States. 
 
 # This project's code is licensed under MIT
 
